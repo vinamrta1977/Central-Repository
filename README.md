@@ -1,2 +1,2 @@
-# Central-Repository
+# practice
 My pics
